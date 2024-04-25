@@ -1,4 +1,6 @@
-### Hej 👋
+<img src="img/banner plant.png"  alt="banner">
+
+### Hej <img width="32px" src="img/wave.gif"  alt="wave">
 
 #### About
 🖥️ Software Engineer\
