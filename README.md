@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hej 👋
 
-<!--
-**williamutbult/williamutbult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+🖥️ Software Engineer\
+🫎 Swedish\
+🌍 Remote
 
-Here are some ideas to get you started:
+#### Work
+📻 Radio simulation\
+🚀 Simulation interoperability\
+🕹️ Game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills
+📝 Technical writing\
+✍️ API Design\
+🧑‍🎓 Customer training
+
+#### Interests
+🎬 Storytelling\
+🧠 Education\
+💬 Language
